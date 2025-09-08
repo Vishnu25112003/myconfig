@@ -1,0 +1,336 @@
+[Info  - 6:33:51 AM] 2025/09/08 06:33:51 Created View (#1)
+	directory=/home/vishnu/myfile/golang
+	view_type="AdHoc"
+	root_dir="file:///home/vishnu/myfile/golang"
+	go_version="go version go1.25.1 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/vishnu/.cache/go-build GOMODCACHE:/home/vishnu/go/pkg/mod GOPATH:/home/vishnu/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 6:33:51 AM] 2025/09/08 06:33:51 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/vishnu/myfile/golang
+	query=[./ builtin]
+	packages=2
+	duration=12.295439ms
+
+[Info  - 6:33:51 AM] 2025/09/08 06:33:51 Created View (#2)
+	directory=/home/vishnu/myfile/golang
+	view_type="AdHoc"
+	root_dir="file:///home/vishnu/myfile/golang/server"
+	go_version="go version go1.25.1 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/vishnu/.cache/go-build GOMODCACHE:/home/vishnu/go/pkg/mod GOPATH:/home/vishnu/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 6:33:51 AM] 2025/09/08 06:33:51 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/vishnu/myfile/golang
+	query=[./ builtin]
+	packages=2
+	duration=113.964877ms
+
+[Info  - 6:34:21 AM] 2025/09/08 06:34:21 background imports cache refresh starting
+
+[Info  - 6:34:21 AM] 2025/09/08 06:34:21 background refresh finished after 5.418602ms
+
+[Info  - 6:34:21 AM] 2025/09/08 06:34:21 background imports cache refresh starting
+
+[Info  - 6:34:21 AM] 2025/09/08 06:34:21 background refresh finished after 5.765291ms
+
+[Error - 6:38:30 AM] 2025/09/08 06:38:30 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:5:1: missing import path (and 1 more errors)
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Info  - 6:38:45 AM] 2025/09/08 06:38:45 go/packages.Load #3
+	view_id="2"
+	snapshot=144
+	directory=/home/vishnu/myfile/golang
+	query=[./]
+	packages=1
+	duration=57.838084ms
+
+[Info  - 6:38:45 AM] 2025/09/08 06:38:45 go/packages.Load #4
+	view_id="2"
+	snapshot=144
+	directory=/home/vishnu/myfile/golang
+	query=[./]
+	packages=1
+	duration=52.816476ms
+
+[Info  - 6:39:22 AM] 2025/09/08 06:39:22 background imports cache refresh starting
+
+[Info  - 6:39:22 AM] 2025/09/08 06:39:22 background refresh finished after 87.455µs
+
+[Info  - 6:40:27 AM] 2025/09/08 06:40:27 Created View (#3)
+	directory=/home/vishnu/myfile/golang
+	view_type="GoMod"
+	root_dir="file:///home/vishnu/myfile/golang"
+	go_version="go version go1.25.1 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/vishnu/.cache/go-build GOMODCACHE:/home/vishnu/go/pkg/mod GOPATH:/home/vishnu/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 6:40:27 AM] 2025/09/08 06:40:27 go/packages.Load #5
+	view_id="3"
+	snapshot=0
+	directory=/home/vishnu/myfile/golang
+	query=[/home/vishnu/myfile/golang/... builtin]
+	packages=3
+	duration=43.368612ms
+
+[Info  - 6:40:57 AM] 2025/09/08 06:40:57 background imports cache refresh starting
+
+[Info  - 6:40:57 AM] 2025/09/08 06:40:57 background refresh finished after 33.766644ms
+
+[Info  - 6:41:01 AM] 2025/09/08 06:41:01 go/packages.Load #9
+	view_id="3"
+	snapshot=4
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=56.437197ms
+
+[Info  - 6:41:01 AM] 2025/09/08 06:41:01 go/packages.Load #8
+	view_id="3"
+	snapshot=4
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=58.184097ms
+
+[Info  - 6:41:18 AM] 2025/09/08 06:41:18 client declined to open document https://github.com/golang/tools/blob/master/gopls/doc/features/index.md
+
+[Info  - 6:41:31 AM] 2025/09/08 06:41:31 background imports cache refresh starting
+
+[Info  - 6:41:31 AM] 2025/09/08 06:41:31 background refresh finished after 13.340659ms
+
+[Info  - 6:41:35 AM] 2025/09/08 06:41:35 go/packages.Load #10
+	view_id="3"
+	snapshot=8
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=39.438167ms
+
+[Info  - 6:41:36 AM] 2025/09/08 06:41:36 go/packages.Load #11
+	view_id="3"
+	snapshot=8
+	directory=/home/vishnu/myfile/golang
+	query=[golang/client]
+	packages=1
+	duration=16.957998ms
+
+[Info  - 6:41:37 AM] 2025/09/08 06:41:37 go/packages.Load #12
+	view_id="3"
+	snapshot=9
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=39.516447ms
+
+[Info  - 6:41:44 AM] 2025/09/08 06:41:44 go/packages.Load #13
+	view_id="3"
+	snapshot=10
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=53.540961ms
+
+[Info  - 6:41:44 AM] 2025/09/08 06:41:44 go/packages.Load #14
+	view_id="3"
+	snapshot=10
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=55.199948ms
+
+[Info  - 6:41:45 AM] 2025/09/08 06:41:45 go/packages.Load #15
+	view_id="3"
+	snapshot=10
+	directory=/home/vishnu/myfile/golang
+	query=[golang/client]
+	packages=1
+	duration=16.474095ms
+
+[Info  - 6:42:13 AM] 2025/09/08 06:42:13 go/packages.Load #16
+	view_id="3"
+	snapshot=19
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=52.567586ms
+
+[Info  - 6:42:13 AM] 2025/09/08 06:42:13 go/packages.Load #17
+	view_id="3"
+	snapshot=19
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=51.281626ms
+
+[Info  - 6:42:13 AM] 2025/09/08 06:42:13 go/packages.Load #18
+	view_id="3"
+	snapshot=20
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=50.510237ms
+
+[Info  - 6:42:13 AM] 2025/09/08 06:42:13 go/packages.Load #19
+	view_id="3"
+	snapshot=20
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=47.212067ms
+
+[Info  - 6:42:14 AM] 2025/09/08 06:42:14 go/packages.Load #20
+	view_id="3"
+	snapshot=20
+	directory=/home/vishnu/myfile/golang
+	query=[golang/client]
+	packages=1
+	duration=15.302341ms
+
+[Info  - 6:42:14 AM] 2025/09/08 06:42:14 go/packages.Load #21
+	view_id="3"
+	snapshot=21
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=69.675476ms
+
+[Info  - 6:42:14 AM] 2025/09/08 06:42:14 go/packages.Load #22
+	view_id="3"
+	snapshot=21
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=70.010139ms
+
+[Info  - 6:42:15 AM] 2025/09/08 06:42:15 go/packages.Load #23
+	view_id="3"
+	snapshot=21
+	directory=/home/vishnu/myfile/golang
+	query=[golang/client]
+	packages=1
+	duration=15.722173ms
+
+[Info  - 6:42:23 AM] 2025/09/08 06:42:23 go/packages.Load #24
+	view_id="3"
+	snapshot=24
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=63.476749ms
+
+[Info  - 6:42:23 AM] 2025/09/08 06:42:23 go/packages.Load #25
+	view_id="3"
+	snapshot=24
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=62.717723ms
+
+[Info  - 6:42:24 AM] 2025/09/08 06:42:24 go/packages.Load #26
+	view_id="3"
+	snapshot=25
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=67.064351ms
+
+[Info  - 6:42:24 AM] 2025/09/08 06:42:24 go/packages.Load #27
+	view_id="3"
+	snapshot=25
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=61.119783ms
+
+[Info  - 6:42:24 AM] 2025/09/08 06:42:24 go/packages.Load #29
+	view_id="3"
+	snapshot=26
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=69.803037ms
+
+[Info  - 6:42:24 AM] 2025/09/08 06:42:24 go/packages.Load #30
+	view_id="3"
+	snapshot=26
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=59.409094ms
+
+[Info  - 6:42:25 AM] 2025/09/08 06:42:25 go/packages.Load #31
+	view_id="3"
+	snapshot=26
+	directory=/home/vishnu/myfile/golang
+	query=[golang/client]
+	packages=1
+	duration=15.045675ms
+
+[Info  - 6:42:40 AM] 2025/09/08 06:42:40 background imports cache refresh starting
+
+[Info  - 6:42:40 AM] 2025/09/08 06:42:40 background refresh finished after 14.195495ms
+
+[Info  - 6:44:52 AM] 2025/09/08 06:44:52 background imports cache refresh starting
+
+[Info  - 6:44:52 AM] 2025/09/08 06:44:52 background refresh finished after 14.242811ms
+
+[Error - 6:45:19 AM] 2025/09/08 06:45:19 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:9: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:45:19 AM] 2025/09/08 06:45:19 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:11: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:45:20 AM] 2025/09/08 06:45:20 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:13: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:45:21 AM] 2025/09/08 06:45:21 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:14: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:45:22 AM] 2025/09/08 06:45:22 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:16: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Info  - 6:45:23 AM] 2025/09/08 06:45:23 background imports cache refresh starting
+
+[Info  - 6:45:23 AM] 2025/09/08 06:45:23 background refresh finished after 15.713958ms
+
+[Error - 6:45:27 AM] 2025/09/08 06:45:27 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:18: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:45:28 AM] 2025/09/08 06:45:28 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:19: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:45:28 AM] 2025/09/08 06:45:28 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:15:22: expression in defer must be function call
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Info  - 6:46:02 AM] 2025/09/08 06:46:02 background imports cache refresh starting
+
+[Info  - 6:46:02 AM] 2025/09/08 06:46:02 background refresh finished after 13.909244ms
+
+[Error - 6:46:17 AM] 2025/09/08 06:46:17 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:16:43: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:50:03 AM] 2025/09/08 06:50:03 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:19:1: expected declaration, found 'for'
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Error - 6:50:03 AM] 2025/09/08 06:50:03 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:19:1: expected declaration, found 'for'
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Info  - 6:50:09 AM] 2025/09/08 06:50:09 client declined to open document https://github.com/golang/tools/blob/master/gopls/doc/features/index.md
+
+[Error - 6:50:11 AM] 2025/09/08 06:50:11 imports fixes: allImportsFixes: /home/vishnu/myfile/golang/server/main.go:19:1: expected declaration, found 'for'
+	file="/home/vishnu/myfile/golang/server/main.go"
+
+[Info  - 7:20:47 AM] 2025/09/08 07:20:47 Shutdown session
+	shutdown_session=1
+

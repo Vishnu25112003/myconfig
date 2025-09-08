@@ -1,0 +1,265 @@
+[Info  - 10:56:45 AM] 2025/09/08 10:56:45 Created View (#1)
+	directory=/home/vishnu/myfile/golang
+	view_type="GoMod"
+	root_dir="file:///home/vishnu/myfile/golang"
+	go_version="go version go1.25.1 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/vishnu/.cache/go-build GOMODCACHE:/home/vishnu/go/pkg/mod GOPATH:/home/vishnu/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 10:56:45 AM] 2025/09/08 10:56:45 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/vishnu/myfile/golang
+	query=[/home/vishnu/myfile/golang/... builtin]
+	packages=3
+	duration=99.762101ms
+
+[Info  - 10:56:45 AM] 2025/09/08 10:56:45 go/packages.Load #3
+	view_id="1"
+	snapshot=1
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=57.39933ms
+
+[Info  - 10:56:45 AM] 2025/09/08 10:56:45 go/packages.Load #2
+	view_id="1"
+	snapshot=1
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/server/main.go]
+	packages=1
+	duration=58.217807ms
+
+[Info  - 10:57:15 AM] 2025/09/08 10:57:15 background imports cache refresh starting
+
+[Info  - 10:57:15 AM] 2025/09/08 10:57:15 background refresh finished after 45.569253ms
+
+[Info  - 10:57:30 AM] 2025/09/08 10:57:30 Created View (#2)
+	directory=/home/vishnu/myfile/golang
+	view_type="AdHoc"
+	root_dir="file:///home/vishnu/myfile/golang"
+	go_version="go version go1.25.1 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/vishnu/.cache/go-build GOMODCACHE:/home/vishnu/go/pkg/mod GOPATH:/home/vishnu/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 10:57:30 AM] 2025/09/08 10:57:30 go/packages.Load #4
+	view_id="2"
+	snapshot=0
+	directory=/home/vishnu/myfile/golang
+	query=[./ builtin]
+	packages=2
+	duration=17.773555ms
+
+[Info  - 10:57:49 AM] 2025/09/08 10:57:49 go/packages.Load #5
+	view_id="2"
+	snapshot=1
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=14.167274ms
+
+[Info  - 10:57:49 AM] 2025/09/08 10:57:49 go/packages.Load #6
+	view_id="2"
+	snapshot=3
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=14.022997ms
+
+[Info  - 10:57:56 AM] 2025/09/08 10:57:56 go/packages.Load #7
+	view_id="2"
+	snapshot=5
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=107.225808ms
+
+[Info  - 10:57:56 AM] 2025/09/08 10:57:56 go/packages.Load #8
+	view_id="2"
+	snapshot=5
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=75.18794ms
+
+[Info  - 10:58:00 AM] 2025/09/08 10:58:00 background imports cache refresh starting
+
+[Info  - 10:58:00 AM] 2025/09/08 10:58:00 background refresh finished after 2.98912ms
+
+[Info  - 10:58:30 AM] 2025/09/08 10:58:30 background imports cache refresh starting
+
+[Info  - 10:58:30 AM] 2025/09/08 10:58:30 background refresh finished after 107.314µs
+
+[Info  - 10:58:50 AM] 2025/09/08 10:58:50 Created View (#3)
+	directory=/home/vishnu/myfile/golang
+	view_type="GoMod"
+	root_dir="file:///home/vishnu/myfile/golang"
+	go_version="go version go1.25.1 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/vishnu/.cache/go-build GOMODCACHE:/home/vishnu/go/pkg/mod GOPATH:/home/vishnu/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.1 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 10:58:50 AM] 2025/09/08 10:58:50 go/packages.Load #9
+	view_id="3"
+	snapshot=0
+	directory=/home/vishnu/myfile/golang
+	query=[/home/vishnu/myfile/golang/... builtin]
+	packages=2
+	duration=42.686134ms
+
+[Info  - 10:59:20 AM] 2025/09/08 10:59:20 background imports cache refresh starting
+
+[Info  - 10:59:20 AM] 2025/09/08 10:59:20 background refresh finished after 19.835001ms
+
+[Info  - 11:21:32 AM] 2025/09/08 11:21:32 go/packages.Load #10
+	view_id="3"
+	snapshot=6
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=55.651927ms
+
+[Info  - 11:21:32 AM] 2025/09/08 11:21:32 go/packages.Load #11
+	view_id="3"
+	snapshot=6
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=43.776348ms
+
+[Info  - 11:22:07 AM] 2025/09/08 11:22:07 background imports cache refresh starting
+
+[Info  - 11:22:07 AM] 2025/09/08 11:22:07 background refresh finished after 5.247162ms
+
+[Info  - 11:29:54 AM] 2025/09/08 11:29:54 go/packages.Load #12
+	view_id="3"
+	snapshot=18
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=59.509592ms
+
+[Info  - 11:29:54 AM] 2025/09/08 11:29:54 go/packages.Load #13
+	view_id="3"
+	snapshot=18
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=50.945577ms
+
+[Info  - 11:34:51 AM] 2025/09/08 11:34:51 go/packages.Load #14
+	view_id="3"
+	snapshot=19
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=36.351034ms
+
+[Info  - 11:34:51 AM] 2025/09/08 11:34:51 go/packages.Load #15
+	view_id="3"
+	snapshot=19
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=38.433075ms
+
+[Info  - 11:35:23 AM] 2025/09/08 11:35:23 background imports cache refresh starting
+
+[Info  - 11:35:23 AM] 2025/09/08 11:35:23 background refresh finished after 2.171482ms
+
+[Info  - 11:39:27 AM] 2025/09/08 11:39:27 background imports cache refresh starting
+
+[Info  - 11:39:27 AM] 2025/09/08 11:39:27 background refresh finished after 3.752609ms
+
+[Error - 12:31:42 PM] Request textDocument/hover failed.
+  Message: rune error
+  Code: 0 
+[Info  - 12:32:41 PM] 2025/09/08 12:32:41 background imports cache refresh starting
+
+[Info  - 12:32:41 PM] 2025/09/08 12:32:41 background refresh finished after 3.085635ms
+
+[Info  - 12:38:11 PM] 2025/09/08 12:38:11 go/packages.Load #16
+	view_id="3"
+	snapshot=49
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer/filetransfer.go]
+	packages=1
+	duration=70.707567ms
+
+[Info  - 12:38:11 PM] 2025/09/08 12:38:11 go/packages.Load #17
+	view_id="3"
+	snapshot=49
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer/filetransfer.go]
+	packages=1
+	duration=67.262389ms
+
+[Info  - 12:38:13 PM] 2025/09/08 12:38:13 go/packages.Load #18
+	view_id="3"
+	snapshot=50
+	directory=/home/vishnu/myfile/golang
+	query=[goland]
+	packages=1
+	duration=14.644083ms
+
+[Info  - 12:53:57 PM] 2025/09/08 12:53:57 go/packages.Load #19
+	view_id="3"
+	snapshot=58
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=96.321837ms
+
+[Info  - 12:53:57 PM] 2025/09/08 12:53:57 go/packages.Load #20
+	view_id="3"
+	snapshot=58
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer.go]
+	packages=1
+	duration=102.30389ms
+
+[Info  - 12:53:58 PM] 2025/09/08 12:53:58 go/packages.Load #21
+	view_id="3"
+	snapshot=59
+	directory=/home/vishnu/myfile/golang
+	query=[goland/filetransfer]
+	packages=1
+	duration=14.244134ms
+
+[Info  - 12:54:35 PM] 2025/09/08 12:54:35 background imports cache refresh starting
+
+[Info  - 12:54:35 PM] 2025/09/08 12:54:35 background refresh finished after 3.318232ms
+
+[Info  - 12:57:38 PM] 2025/09/08 12:57:38 go/packages.Load #22
+	view_id="3"
+	snapshot=74
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer/filetransfer.go]
+	packages=1
+	duration=76.191358ms
+
+[Info  - 12:57:38 PM] 2025/09/08 12:57:38 go/packages.Load #23
+	view_id="3"
+	snapshot=74
+	directory=/home/vishnu/myfile/golang
+	query=[file=/home/vishnu/myfile/golang/filetransfer/filetransfer.go]
+	packages=1
+	duration=69.502659ms
+
+[Info  - 12:57:39 PM] 2025/09/08 12:57:39 go/packages.Load #24
+	view_id="3"
+	snapshot=75
+	directory=/home/vishnu/myfile/golang
+	query=[goland]
+	packages=1
+	duration=11.271797ms
+
+[Info  - 12:58:11 PM] 2025/09/08 12:58:11 background imports cache refresh starting
+
+[Info  - 12:58:11 PM] 2025/09/08 12:58:11 background refresh finished after 3.091923ms
+

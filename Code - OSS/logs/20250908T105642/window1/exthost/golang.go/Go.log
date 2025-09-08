@@ -1,0 +1,192 @@
+2025-09-08 10:56:45.495 [info] Try to start language server - activation (enabled: true)
+2025-09-08 10:56:45.565 [info] Running language server gopls(v0.20.0/go1.25.1 X:nodwarf5)
+2025-09-08 10:58:00.594 [info] Running checks...
+2025-09-08 10:58:00.594 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 10:58:00.636 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 10:58:00.636 [info] 
+2025-09-08 10:58:00.751 [info] Running checks...
+2025-09-08 10:58:00.751 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 10:58:00.778 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 10:58:00.778 [info] 
+2025-09-08 10:58:00.938 [info] Running checks...
+2025-09-08 10:58:00.938 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 10:58:00.966 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 10:58:00.966 [info] 
+2025-09-08 10:58:01.171 [info] Running checks...
+2025-09-08 10:58:01.171 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 10:58:01.212 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 10:58:01.212 [info] 
+2025-09-08 11:21:37.425 [info] Running checks...
+2025-09-08 11:21:37.425 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:37.594 [info] Running checks...
+2025-09-08 11:21:37.594 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:37.602 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:37.602 [info] 
+2025-09-08 11:21:37.796 [info] Running checks...
+2025-09-08 11:21:37.796 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:37.801 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:37.801 [info] 
+2025-09-08 11:21:37.981 [info] Running checks...
+2025-09-08 11:21:37.981 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:37.984 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:37.984 [info] 
+2025-09-08 11:21:38.200 [info] Running checks...
+2025-09-08 11:21:38.200 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:38.209 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:38.209 [info] 
+2025-09-08 11:21:38.382 [info] Running checks...
+2025-09-08 11:21:38.382 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:38.386 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:38.386 [info] 
+2025-09-08 11:21:38.565 [info] Running checks...
+2025-09-08 11:21:38.565 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:21:38.570 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:38.570 [info] 
+2025-09-08 11:21:39.247 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:21:39.247 [info] 
+2025-09-08 11:26:45.499 [info] Using cached Go developer survey: v0.1.0
+2025-09-08 11:26:45.499 [info] Survey active from Tue Sep 09 2025 to Wed Oct 01 2025
+2025-09-08 11:34:54.010 [info] Running checks...
+2025-09-08 11:34:54.010 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:34:54.109 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:34:54.109 [info] 
+2025-09-08 11:34:54.180 [info] Running checks...
+2025-09-08 11:34:54.180 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:34:54.251 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:34:54.251 [info] 
+2025-09-08 11:34:54.366 [info] Running checks...
+2025-09-08 11:34:54.366 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:34:54.433 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:34:54.433 [info] 
+2025-09-08 11:34:54.553 [info] Running checks...
+2025-09-08 11:34:54.553 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:34:54.618 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:34:54.618 [info] 
+2025-09-08 11:34:54.724 [info] Running checks...
+2025-09-08 11:34:54.724 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:34:54.796 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:34:54.796 [info] 
+2025-09-08 11:34:54.891 [info] Running checks...
+2025-09-08 11:34:54.891 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:34:54.956 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:34:54.956 [info] 
+2025-09-08 11:38:57.322 [info] Running checks...
+2025-09-08 11:38:57.322 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:38:57.419 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:38:57.419 [info] 
+2025-09-08 11:38:57.503 [info] Running checks...
+2025-09-08 11:38:57.503 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:38:57.579 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:38:57.579 [info] 
+2025-09-08 11:38:57.677 [info] Running checks...
+2025-09-08 11:38:57.677 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 11:38:57.745 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 11:38:57.745 [info] 
+2025-09-08 12:32:11.122 [info] Running checks...
+2025-09-08 12:32:11.122 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:32:11.254 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:32:11.254 [info] 
+2025-09-08 12:32:11.381 [info] Running checks...
+2025-09-08 12:32:11.381 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:32:11.482 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:32:11.482 [info] 
+2025-09-08 12:32:11.577 [info] Running checks...
+2025-09-08 12:32:11.577 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:32:11.668 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:32:11.668 [info] 
+2025-09-08 12:32:11.781 [info] Running checks...
+2025-09-08 12:32:11.781 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:32:11.871 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:32:11.871 [info] 
+2025-09-08 12:32:12.210 [info] Running checks...
+2025-09-08 12:32:12.210 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:32:12.301 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:32:12.301 [info] 
+2025-09-08 12:32:12.431 [info] Running checks...
+2025-09-08 12:32:12.431 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:32:12.517 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:32:12.517 [info] 
+2025-09-08 12:54:05.771 [info] Running checks...
+2025-09-08 12:54:05.771 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:05.867 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:05.867 [info] 
+2025-09-08 12:54:06.085 [info] Running checks...
+2025-09-08 12:54:06.085 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:06.191 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:06.191 [info] 
+2025-09-08 12:54:06.312 [info] Running checks...
+2025-09-08 12:54:06.312 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:06.405 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:06.405 [info] 
+2025-09-08 12:54:06.585 [info] Running checks...
+2025-09-08 12:54:06.585 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:06.671 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:06.671 [info] 
+2025-09-08 12:54:06.806 [info] Running checks...
+2025-09-08 12:54:06.806 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:06.898 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:06.898 [info] 
+2025-09-08 12:54:07.052 [info] Running checks...
+2025-09-08 12:54:07.052 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:07.140 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:07.140 [info] 
+2025-09-08 12:54:07.354 [info] Running checks...
+2025-09-08 12:54:07.354 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:07.442 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:07.442 [info] 
+2025-09-08 12:54:07.572 [info] Running checks...
+2025-09-08 12:54:07.572 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:07.666 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:07.666 [info] 
+2025-09-08 12:54:07.802 [info] Running checks...
+2025-09-08 12:54:07.802 [info] Starting linting the current package at /home/vishnu/myfile/golang
+2025-09-08 12:54:07.903 [info] /home/vishnu/myfile/golang>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:54:07.903 [info] 
+2025-09-08 12:57:41.651 [info] Running checks...
+2025-09-08 12:57:41.651 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:41.786 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:41.786 [info] 
+2025-09-08 12:57:41.946 [info] Running checks...
+2025-09-08 12:57:41.946 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:42.041 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:42.041 [info] 
+2025-09-08 12:57:42.138 [info] Running checks...
+2025-09-08 12:57:42.138 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:42.226 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:42.227 [info] 
+2025-09-08 12:57:42.309 [info] Running checks...
+2025-09-08 12:57:42.309 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:42.394 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:42.394 [info] 
+2025-09-08 12:57:42.490 [info] Running checks...
+2025-09-08 12:57:42.490 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:42.579 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:42.579 [info] 
+2025-09-08 12:57:42.715 [info] Running checks...
+2025-09-08 12:57:42.715 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:42.817 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:42.817 [info] 
+2025-09-08 12:57:43.268 [info] Running checks...
+2025-09-08 12:57:43.268 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:43.360 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:43.360 [info] 
+2025-09-08 12:57:43.492 [info] Running checks...
+2025-09-08 12:57:43.492 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:43.587 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:43.587 [info] 
+2025-09-08 12:57:43.697 [info] Running checks...
+2025-09-08 12:57:43.697 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:43.790 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:43.790 [info] 
+2025-09-08 12:57:43.987 [info] Running checks...
+2025-09-08 12:57:43.987 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:44.072 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:44.072 [info] 
+2025-09-08 12:57:44.716 [info] Running checks...
+2025-09-08 12:57:44.716 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:44.804 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:44.804 [info] 
+2025-09-08 12:57:44.941 [info] Running checks...
+2025-09-08 12:57:44.941 [info] Starting linting the current package at /home/vishnu/myfile/golang/filetransfer
+2025-09-08 12:57:45.034 [info] /home/vishnu/myfile/golang/filetransfer>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 12:57:45.035 [info] 

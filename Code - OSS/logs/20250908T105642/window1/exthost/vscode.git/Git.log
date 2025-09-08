@@ -1,0 +1,147 @@
+2025-09-08 10:56:45.780 [info] [main] Log level: Info
+2025-09-08 10:56:45.780 [info] [main] Validating found git in: "git"
+2025-09-08 10:56:45.780 [info] [main] Using git "2.51.0" from "git"
+2025-09-08 10:56:45.780 [info] [Model][doInitialScan] Initial repository scan started
+2025-09-08 10:56:45.780 [info] > git rev-parse --show-toplevel [8ms]
+2025-09-08 10:56:45.780 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:56:45.780 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-08 10:56:45.780 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:56:45.780 [info] > git rev-parse --show-toplevel [31ms]
+2025-09-08 10:56:45.780 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:56:45.780 [info] > git rev-parse --show-toplevel [5ms]
+2025-09-08 10:56:45.780 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:56:45.780 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-09-08 10:56:45.784 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 10:56:45.784 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:56:45.831 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 10:56:45.831 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:56:47.495 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 10:56:47.495 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 10:57:49.764 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 10:57:49.764 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:05:29.209 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-08 11:05:29.209 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:05:51.610 [info] > git rev-parse --show-toplevel [0ms]
+2025-09-08 11:05:51.610 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:06:24.174 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-08 11:06:24.174 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:08:12.784 [info] > git rev-parse --show-toplevel [0ms]
+2025-09-08 11:08:12.784 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:08:16.395 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 11:08:16.395 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:10:51.608 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 11:10:51.608 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:10:53.155 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-08 11:10:53.166 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [4ms]
+2025-09-08 11:10:53.176 [info] [Model][openRepository] Opened repository (path): /home/vishnu/myfile/golang/Wallpapers
+2025-09-08 11:10:53.176 [info] [Model][openRepository] Opened repository (real path): /home/vishnu/myfile/golang/Wallpapers
+2025-09-08 11:10:53.176 [info] [Model][openRepository] Opened repository (kind): repository
+2025-09-08 11:10:53.180 [info] > git config --get commit.template [1ms]
+2025-09-08 11:10:53.186 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-08 11:10:53.188 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/vishnu/myfile/golang/Wallpapers/.git/refs/remotes/origin/main'
+2025-09-08 11:10:53.189 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-09-08 11:10:53.196 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-09-08 11:10:53.687 [info] > git check-ignore -v -z --stdin [0ms]
+2025-09-08 11:10:54.063 [info] > git status -z -uall [871ms]
+2025-09-08 11:10:54.073 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-09-08 11:10:54.076 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2025-09-08 11:10:54.076 [warning] [Git][config] git config failed: Failed to execute git
+2025-09-08 11:10:54.079 [info] > git config --get commit.template [7ms]
+2025-09-08 11:10:54.099 [info] > git reflog main --grep-reflog=branch: Created from *. [20ms]
+2025-09-08 11:10:54.102 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-09-08 11:10:54.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-09-08 11:10:54.107 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/vishnu/myfile/golang/Wallpapers/.git/refs/remotes/origin/main'
+2025-09-08 11:10:54.108 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-09-08 11:10:54.113 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [8ms]
+2025-09-08 11:10:54.116 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-08 11:10:54.117 [info] > git config --add --local branch.main.vscode-merge-base origin/main [2ms]
+2025-09-08 11:10:54.120 [info] > git status -z -uall [10ms] (cancelled)
+2025-09-08 11:10:54.121 [info] > git config --get commit.template [1ms]
+2025-09-08 11:10:54.124 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-09-08 11:10:54.127 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/vishnu/myfile/golang/Wallpapers/.git/refs/remotes/origin/main'
+2025-09-08 11:10:54.127 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-09-08 11:10:54.132 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-09-08 11:10:54.988 [info] > git status -z -uall [859ms]
+2025-09-08 11:10:54.995 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-09-08 11:10:54.998 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2025-09-08 11:10:55.001 [info] > git diff --name-status -z --diff-filter=ADMR d7ba4aabe6df8f61ecdbd3952bc1aa41f3c6f5f0...refs/remotes/origin/main [4ms]
+2025-09-08 11:10:55.001 [info] > git diff --name-status -z --diff-filter=ADMR d7ba4aabe6df8f61ecdbd3952bc1aa41f3c6f5f0...refs/remotes/origin/main [1ms]
+2025-09-08 11:11:02.025 [info] > git check-ignore -v -z --stdin [2ms]
+2025-09-08 11:11:32.873 [info] > git show --textconv :.gitignore [6ms]
+2025-09-08 11:11:32.873 [info] > git ls-files --stage -- .gitignore [1ms]
+2025-09-08 11:11:32.878 [info] > git cat-file -s e86019fa2f125cfa216ac4790dd8fe1075d38476 [1ms]
+2025-09-08 11:11:35.745 [info] > git check-ignore -v -z --stdin [2ms]
+2025-09-08 11:11:36.310 [info] > git config --get commit.template [5ms]
+2025-09-08 11:11:36.311 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-09-08 11:11:36.316 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/vishnu/myfile/golang/Wallpapers/.git/refs/remotes/origin/main'
+2025-09-08 11:11:36.318 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-09-08 11:11:36.327 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-09-08 11:11:37.183 [info] > git status -z -uall [861ms]
+2025-09-08 11:11:38.300 [info] > git check-ignore -v -z --stdin [1ms]
+2025-09-08 11:11:39.588 [info] > git show --textconv :LICENSE [6ms]
+2025-09-08 11:11:39.589 [info] > git ls-files --stage -- LICENSE [1ms]
+2025-09-08 11:11:39.594 [info] > git cat-file -s ce5dccf2cfeb934f88fe9a917342e54519813145 [2ms]
+2025-09-08 11:11:41.721 [info] > git check-ignore -v -z --stdin [1ms]
+2025-09-08 11:11:42.289 [info] > git config --get commit.template [5ms]
+2025-09-08 11:11:42.291 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-09-08 11:11:42.295 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/vishnu/myfile/golang/Wallpapers/.git/refs/remotes/origin/main'
+2025-09-08 11:11:42.296 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-09-08 11:11:42.303 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-09-08 11:11:43.021 [info] > git check-ignore -v -z --stdin [1ms]
+2025-09-08 11:11:43.170 [info] > git status -z -uall [871ms]
+2025-09-08 11:11:44.227 [info] > git show --textconv :README.md [5ms]
+2025-09-08 11:11:44.227 [info] > git ls-files --stage -- README.md [1ms]
+2025-09-08 11:11:44.231 [info] > git cat-file -s b1befbfea34be50bbba1e05be30522ceefc8c1fc [1ms]
+2025-09-08 11:11:45.790 [info] > git check-ignore -v -z --stdin [1ms]
+2025-09-08 11:11:46.964 [info] > git check-ignore -v -z --stdin [1ms]
+2025-09-08 11:11:48.186 [info] > git config --get commit.template [6ms]
+2025-09-08 11:11:48.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-09-08 11:11:48.192 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/vishnu/myfile/golang/Wallpapers/.git/refs/remotes/origin/main'
+2025-09-08 11:11:48.194 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-09-08 11:11:48.203 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-09-08 11:11:49.078 [info] > git status -z -uall [881ms]
+2025-09-08 11:21:29.561 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-08 11:21:29.561 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:26:02.246 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 11:26:02.246 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:26:02.250 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 11:26:02.250 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-08 11:26:05.586 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 11:26:05.586 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 11:44:52.614 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 11:44:52.614 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 12:27:47.193 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-08 12:27:47.193 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 12:27:47.199 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 12:27:47.199 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-08 12:27:49.639 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 12:27:49.639 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 12:38:11.884 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-08 12:38:11.884 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 12:53:57.252 [info] > git rev-parse --show-toplevel [1ms]
+2025-09-08 12:53:57.252 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-09-08 12:57:38.116 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-08 12:57:38.116 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

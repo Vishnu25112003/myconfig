@@ -1,0 +1,21 @@
+2025-09-08 06:32:44.272 [info] Getting Manifest... golang.go
+2025-09-08 06:32:47.997 [info] Installing extension: golang.go {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json","path":"/home/vishnu/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-22T09:43:31.476Z"}}
+2025-09-08 06:32:53.593 [info] Extension signature verification result for golang.go: Success. Executed: true. Duration: 2455ms.
+2025-09-08 06:32:53.664 [info] Extracted extension to file:///home/vishnu/.vscode-oss/extensions/golang.go-0.50.0-universal: golang.go
+2025-09-08 06:32:53.676 [info] Renamed to /home/vishnu/.vscode-oss/extensions/golang.go-0.50.0-universal
+2025-09-08 06:32:53.696 [info] Extension installed successfully: golang.go vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json
+2025-09-08 06:35:00.377 [info] Getting Manifest... laurenttreguier.vscode-simple-icons
+2025-09-08 06:35:02.117 [info] Installing extension: laurenttreguier.vscode-simple-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json","path":"/home/vishnu/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-22T09:43:31.476Z"}}
+2025-09-08 06:35:05.731 [info] Extension signature verification result for laurenttreguier.vscode-simple-icons: Success. Executed: true. Duration: 1599ms.
+2025-09-08 06:35:06.105 [info] Extracted extension to file:///home/vishnu/.vscode-oss/extensions/laurenttreguier.vscode-simple-icons-1.16.0-universal: laurenttreguier.vscode-simple-icons
+2025-09-08 06:35:06.127 [info] Renamed to /home/vishnu/.vscode-oss/extensions/laurenttreguier.vscode-simple-icons-1.16.0-universal
+2025-09-08 06:35:06.139 [info] Extension installed successfully: laurenttreguier.vscode-simple-icons vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json
+2025-09-08 06:43:06.535 [info] Getting Manifest... huytd.lemontree-dark
+2025-09-08 06:43:08.967 [info] Installing extension: huytd.lemontree-dark {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json","path":"/home/vishnu/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.103.2","date":"2025-08-22T09:43:31.476Z"}}
+2025-09-08 06:43:12.859 [info] Extension signature verification result for huytd.lemontree-dark: Success. Executed: true. Duration: 2020ms.
+2025-09-08 06:43:12.873 [info] Extracted extension to file:///home/vishnu/.vscode-oss/extensions/huytd.lemontree-dark-0.0.2-universal: huytd.lemontree-dark
+2025-09-08 06:43:12.879 [info] Renamed to /home/vishnu/.vscode-oss/extensions/huytd.lemontree-dark-0.0.2-universal
+2025-09-08 06:43:12.892 [info] Extension installed successfully: huytd.lemontree-dark vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json
+2025-09-08 06:43:35.500 [info] Uninstalling extension from the profile: huytd.lemontree-dark@0.0.2 vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json
+2025-09-08 06:43:35.518 [info] Marked extension as removed huytd.lemontree-dark-0.0.2-universal
+2025-09-08 06:43:36.505 [info] Successfully uninstalled extension from the profile huytd.lemontree-dark@0.0.2 vscode-userdata:/home/vishnu/.vscode-oss/extensions/extensions.json

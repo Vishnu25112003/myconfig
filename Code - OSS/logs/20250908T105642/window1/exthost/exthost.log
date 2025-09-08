@@ -1,0 +1,29 @@
+2025-09-08 10:56:45.275 [info] Extension host with pid 50157 started
+2025-09-08 10:56:45.275 [info] Skipping acquiring lock for /home/vishnu/.config/Code - OSS/User/workspaceStorage/e62ca3228b2f559360a2c558c04d9b3e.
+2025-09-08 10:56:45.293 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-08 10:56:45.309 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onLanguage:go'
+2025-09-08 10:56:45.603 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-08 10:56:45.606 [info] ExtensionService#_doActivateExtension LaurentTreguier.vscode-simple-icons, startup: true, activationEvent: '*'
+2025-09-08 10:56:45.648 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-08 10:56:45.683 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-08 10:56:45.737 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-09-08 10:56:45.778 [info] Eager extensions activated
+2025-09-08 10:56:45.788 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-08 10:56:45.791 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-08 10:58:29.222 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-09-08 11:05:47.688 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2025-09-08 11:10:54.079 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-08 11:11:40.206 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-08 11:11:40.216 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-09-08 11:11:40.485 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-09-08 11:26:02.223 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'
+2025-09-08 11:44:52.508 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-08 11:44:52.514 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-08 11:44:52.563 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-09-08 12:31:42.400 [error] [golang.go] provider FAILED
+2025-09-08 12:31:42.403 [error] Error: rune error
+	at handleResponse (/home/vishnu/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8582:40)
+	at handleMessage (/home/vishnu/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8392:11)
+	at processMessageQueue (/home/vishnu/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8407:13)
+	at Immediate.<anonymous> (/home/vishnu/.vscode-oss/extensions/golang.go-0.50.0-universal/dist/goMain.js:8383:11)
+	at process.processImmediate (node:internal/timers:485:21)

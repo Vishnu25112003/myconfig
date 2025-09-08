@@ -1,0 +1,30 @@
+2025-09-08 06:32:54.009 [info] Tools environment: GOPATH=/home/vishnu/go, GOTOOLCHAIN=auto
+2025-09-08 06:32:54.009 [info] Installing 2 tools at /home/vishnu/go/bin
+2025-09-08 06:32:54.009 [info]   gopls
+2025-09-08 06:32:54.009 [info]   staticcheck
+2025-09-08 06:32:54.009 [info] 
+2025-09-08 06:33:38.085 [info] Installing golang.org/x/tools/gopls@latest (/home/vishnu/go/bin/gopls) SUCCEEDED
+2025-09-08 06:33:50.992 [info] Installing honnef.co/go/tools/cmd/staticcheck@latest (/home/vishnu/go/bin/staticcheck) SUCCEEDED
+2025-09-08 06:33:50.992 [info] 
+2025-09-08 06:33:50.993 [info] All tools successfully installed. You are ready to Go. :)
+2025-09-08 06:33:51.073 [info] Try to start language server - activation (enabled: true)
+2025-09-08 06:33:51.161 [info] Running language server gopls(v0.20.0/go1.25.1 X:nodwarf5)
+2025-09-08 06:41:01.870 [info] Running checks...
+2025-09-08 06:41:01.870 [info] Starting linting the current package at /home/vishnu/myfile/golang/server
+2025-09-08 06:41:01.994 [info] /home/vishnu/myfile/golang/server>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 06:41:01.994 [info] /home/vishnu/myfile/golang/server/main.go:6:2 declared and not used: listener
+2025-09-08 06:41:01.994 [info] /home/vishnu/myfile/golang/server/main.go:6:19 undefined: net
+2025-09-08 06:41:01.994 [info] /home/vishnu/myfile/golang/server/main.go:7:12 undefined: nill
+2025-09-08 06:41:01.994 [info] /home/vishnu/myfile/golang/server/main.go:8:3 undefined: fmt (compile)
+2025-09-08 06:41:01.994 [info] 
+2025-09-08 06:41:03.101 [info] Running checks...
+2025-09-08 06:41:03.101 [info] Starting linting the current package at /home/vishnu/myfile/golang/server
+2025-09-08 06:41:03.184 [info] /home/vishnu/myfile/golang/server>Finished running tool: /home/vishnu/go/bin/staticcheck
+2025-09-08 06:41:03.184 [info] /home/vishnu/myfile/golang/server/main.go:6:2 declared and not used: listener
+2025-09-08 06:41:03.184 [info] /home/vishnu/myfile/golang/server/main.go:6:19 undefined: net
+2025-09-08 06:41:03.184 [info] /home/vishnu/myfile/golang/server/main.go:7:12 undefined: nill
+2025-09-08 06:41:03.184 [info] /home/vishnu/myfile/golang/server/main.go:8:3 undefined: fmt (compile)
+2025-09-08 06:41:03.184 [info] 
+2025-09-08 07:03:51.105 [info] Fetching latest go developer survey
+2025-09-08 07:03:52.980 [info] Using fetched Go developer survey: v0.1.0
+2025-09-08 07:03:52.980 [info] Survey active from Tue Sep 09 2025 to Wed Oct 01 2025
